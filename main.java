@@ -1,4 +1,1 @@
-class Main
-{
- System.out.Println("welcome to Main");
-}
+package sabarish;
